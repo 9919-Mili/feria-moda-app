@@ -7,11 +7,10 @@ Mi objetivo es crear la aplicacion para dar a conocer mis habilidades y ofrecer 
 Creacion de app movil, se va a tratar de una aplicacion de compra y venta de productos.
 
 ## Tecnologías
-- .NET MAUI
-- ASP.NET Core API
-- SQL Server
-- Entity Framework
-- Figma
+- Frontend:
+- Backend:
+- DB:
+- Diseño UX/UI: Figma
 
 ## Funcionalidades
 - Registro/Login
