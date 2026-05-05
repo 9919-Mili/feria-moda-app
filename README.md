@@ -7,10 +7,12 @@ Mi objetivo es crear la aplicacion para dar a conocer mis habilidades y ofrecer 
 Creacion de app movil, se va a tratar de una aplicacion de compra y venta de productos.
 
 ## Tecnologías
-- Frontend:
-- Backend:
-- DB:
-- Diseño UX/UI: Figma
+C#
+ASP.NET Core
+SQL Server
+React Native
+Figma
+Git / GitHub
 
 ## Funcionalidades
 - Registro/Login
